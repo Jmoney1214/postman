@@ -1,0 +1,26 @@
+[
+  {
+    "customer_id": "c1",
+    "signup_date": "2025-08-01T00:00:00Z",
+    "total_orders": 4,
+    "avg_basket": 50.0,
+    "favorite_categories": ["craft beer", "whiskey"],
+    "channel_preference": "email"
+  },
+  {
+    "customer_id": "c2",
+    "signup_date": "2025-09-10T00:00:00Z",
+    "total_orders": 1,
+    "avg_basket": 60.0,
+    "favorite_categories": ["tequila"],
+    "channel_preference": "paid_social"
+  },
+  {
+    "customer_id": "c3",
+    "signup_date": "2025-07-15T00:00:00Z",
+    "total_orders": 2,
+    "avg_basket": 45.0,
+    "favorite_categories": ["wine"],
+    "channel_preference": "paid_search"
+  }
+]
