@@ -1,0 +1,5 @@
+[
+  {"channel": "email", "campaign_id": "em1", "daily_spend": 50.0, "impressions": 5000, "clicks": 250, "date": "2025-10-10T00:00:00Z"},
+  {"channel": "paid_social", "campaign_id": "ps1", "daily_spend": 120.0, "impressions": 12000, "clicks": 360, "date": "2025-10-10T00:00:00Z"},
+  {"channel": "paid_search", "campaign_id": "psea1", "daily_spend": 90.0, "impressions": 8000, "clicks": 320, "date": "2025-10-10T00:00:00Z"}
+]

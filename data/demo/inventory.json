@@ -1,0 +1,32 @@
+[
+  {
+    "sku_id": "s1",
+    "name": "Craft IPA - Summer Haze",
+    "category": "beer",
+    "cost": 12.0,
+    "price": 20.0,
+    "margin_pct": 40.0,
+    "stock_level": 80,
+    "velocity": 0.15
+  },
+  {
+    "sku_id": "s2",
+    "name": "Premium Tequila Blanco",
+    "category": "spirits",
+    "cost": 30.0,
+    "price": 60.0,
+    "margin_pct": 50.0,
+    "stock_level": 30,
+    "velocity": 0.35
+  },
+  {
+    "sku_id": "s3",
+    "name": "Local Lager",
+    "category": "beer",
+    "cost": 10.0,
+    "price": 12.5,
+    "margin_pct": 20.0,
+    "stock_level": 120,
+    "velocity": 0.1
+  }
+]
